@@ -13,7 +13,7 @@ A decision-ready executive story built from a Tableau dashboard, recommending wh
 | Abdulaziz Alfuraih | [@A-EDU](https://github.com/A-edu) | Slides 1–2 · BLUF and national situation |
 | Abdulmajeed Alnashwan | [@a-Nash1](https://github.com/a-Nash1) | Slides 3–4 · Regional gap and evidence |
 | Naif Alsmari | [@username](https://github.com/Naxf1) | Slide 5 · Options |
-| Khalid Alhaidary | [@k-alh](https://github.com/k-alh) | Slides 6–7 · Recommendation and ask |
+| Khalid Alhaidary | [@k-alh](https://github.com/k-alh) | Slides 6–7 · Recommendation and ask|
 
 ---
 
